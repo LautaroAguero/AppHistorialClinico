@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfPaciente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Paciente>
+    <dni>39752521</dni>
+    <nombre>lautaro</nombre>
+    <apellido>aguero</apellido>
+    <direccion>lalallalla</direccion>
+    <telefono>3725475489</telefono>
+    <email>lauta@test.com</email>
+  </Paciente>
+  <Paciente>
+    <dni>85</dni>
+    <nombre>test</nombre>
+    <apellido>test</apellido>
+    <direccion>asdasd</direccion>
+    <telefono>test</telefono>
+    <email>test</email>
+  </Paciente>
+  <Paciente>
+    <dni>123</dni>
+    <nombre>hola</nombre>
+    <apellido>como</apellido>
+    <direccion>estas</direccion>
+    <telefono>bien</telefono>
+    <email>vos</email>
+  </Paciente>
+  <Paciente>
+    <dni>39752521</dni>
+    <nombre>lautaro</nombre>
+    <apellido>aguero</apellido>
+    <direccion>cb464</direccion>
+    <telefono>3725</telefono>
+    <email>lauta@test.com</email>
+  </Paciente>
+</ArrayOfPaciente>

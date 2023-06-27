@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Paciente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <nombre>lautaro</nombre>
+  <apellido>aguero</apellido>
+  <direccion>cba 464</direccion>
+  <telefono>52554</telefono>
+  <email>test@gmail.com</email>
+</Paciente>

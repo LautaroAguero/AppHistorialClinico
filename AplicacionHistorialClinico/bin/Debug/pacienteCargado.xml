@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Paciente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <nombre>asdas</nombre>
+  <apellido>asdasd</apellido>
+  <direccion>adasd</direccion>
+  <telefono>asdasd</telefono>
+  <email>asdasd</email>
+</Paciente>
